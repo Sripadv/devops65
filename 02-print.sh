@@ -10,4 +10,4 @@ echo HELLO
 echo HI, hello , hey
 
 #syntax: echo -e "line1 \n line2"
-echo -e "hi,\nhello,\nhey"
+echo -e "hi,\n hello,\n hey"
