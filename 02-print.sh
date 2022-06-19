@@ -6,5 +6,8 @@
 
 echo HELLO
 
-# Print multiple lines (print a new line)
+# Print multiple lines (print a new line(\n))
 echo HI, hello , hey
+
+#syntax: echo -e "line1 \n line2"
+echo -e "hi,\nhello,\nhey"
