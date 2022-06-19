@@ -1,4 +1,3 @@
-#! /bin/bash
+#! /bin/python
 
-ls
-cat /etc/passwd
+print "hello"
