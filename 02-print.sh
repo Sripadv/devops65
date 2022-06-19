@@ -5,3 +5,6 @@
 #syntax : echo INPUT
 
 echo HELLO
+
+# Print multiple lines (print a new line)
+echo HI, hello , hey
