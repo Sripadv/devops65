@@ -1,1 +1,4 @@
-echo install payment component
+source components/common.sh
+
+COMPONENT=payment
+PYTHON

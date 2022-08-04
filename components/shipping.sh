@@ -1,1 +1,4 @@
-echo install shipping component
+source components/common.sh
+
+COMPONENT=shipping
+MAVEN
